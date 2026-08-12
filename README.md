@@ -138,8 +138,3 @@ Todolist/
 - [ ] Due dates and reminder tags
 - [ ] Export / Import tasks (JSON & CSV)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
